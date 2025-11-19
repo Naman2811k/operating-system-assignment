@@ -1,6 +1,6 @@
 """
 SYSTEM STARTUP SIMULATION (Assignment 2)
-Author : vansh
+Author : naman
 Course : Operating Systems Lab
 File   : System_startup.py
 """
@@ -48,3 +48,4 @@ if __name__ == '__main__':
     print("System Shutdown.\n")
 
     print(f"Process log created at: {log_file}")
+
